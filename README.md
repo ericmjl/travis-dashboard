@@ -3,6 +3,7 @@ Dump for all my travis build badges ;)
 
 | repository | status |
 |------------|--------|
+| [bayesian-analysis-recipes](https://github.com/ericmjl/bayesian-analysis-recipes) | [![Build Status](https://travis-ci.org/ericmjl/bayesian-analysis-recipes.svg?branch=master)](https://travis-ci.org/ericmjl/bayesian-analysis-recipes)
 | [causality](https://github.com/ericmjl/causality) | [![Build Status](https://travis-ci.org/ericmjl/causality.svg?branch=master)](https://travis-ci.org/ericmjl/causality) |
 | [dotfiles](https://github.com/ericmjl/dotfiles) | [![Build Status](https://travis-ci.org/ericmjl/dotfiles.svg?branch=master)](https://travis-ci.org/ericmjl/dotfiles) |
 | [nbc-zh](https://github.com/ericmjl/nbc-zh) | [![Build Status](https://travis-ci.org/ericmjl/nbc-zh.svg?branch=master)](https://travis-ci.org/ericmjl/nbc-zh) | Network Analysis Made Simple | [![Build Status](https://travis-ci.org/ericmjl/Network-Analysis-Made-Simple.svg?branch=master)](https://travis-ci.org/ericmjl/Network-Analysis-Made-Simple) |

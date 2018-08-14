@@ -1,5 +1,5 @@
 # travis-dashboard
-Dump for all my travis build badges ;)
+Dump for all my travis build badges 😉
 
 | repository | status |
 |------------|--------|
